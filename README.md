@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I speak 4 languages**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
