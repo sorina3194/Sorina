@@ -1,11 +1,10 @@
 <h1 align="center">Hello, Ciao, Buna, Hallo 👋 I'm Sorina</h1>
-<h3 align="center">Junior Full Stack Developer, Hairstylist and Artist</h3>
 
-- 🔭 I’m currently developing my React skills on Code Academy.
+<h3 align="center">Junior Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails,React, Mongo DB**
+- 🌱 I’m currently learning React and Redux on Code Academy. *
 
-- 💬 Ask me about **HTML, CSS, JS, RUBY**
+- 💬 Ask me about **HTML, CSS, JS, REACT, REDUX, SQL**
 
 - 📫 How to reach me **sorinatudor94@gmail.com**
 
