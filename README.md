@@ -1,7 +1,7 @@
 <h1 align="center">Hello, Ciao, Buna, Hallo 👋 I'm Sorina</h1>
 <h3 align="center">Junior Full Stack Developer, Hairstylist and Artist</h3>
 
-- 🔭 I’m currently working on [Mindful Meets](https://www.mindful-meets.org/)
+- 🔭 I’m currently developing my React skills on Code Academy.
 
 - 🌱 I’m currently learning **Ruby on Rails,React, Mongo DB**
 
